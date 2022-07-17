@@ -1,4 +1,4 @@
-# Add or remove form input fields dynamically in react js
+# Dynamically add or remove form input fields in react js
 
 In this react js project I'm demonstrating, how to add or remove the form input fields dynamically.
 
